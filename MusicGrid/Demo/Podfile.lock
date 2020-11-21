@@ -1,0 +1,16 @@
+PODS:
+  - MusicGrid (0.0.1)
+
+DEPENDENCIES:
+  - MusicGrid (from `../`)
+
+EXTERNAL SOURCES:
+  MusicGrid:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MusicGrid: 0c6ddbbe21d6cf784db8b324647660a405f2be9f
+
+PODFILE CHECKSUM: f8720bd8ccc17e4d3ab6b294c35392dadfb411b9
+
+COCOAPODS: 1.10.0
